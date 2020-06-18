@@ -5,6 +5,6 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
+I'm an aspiring data engineer, experienced with SQL and Python programming. I specialize in cloud infrastructure techniques, and devops.
 
-Etc, etc, etc
+
